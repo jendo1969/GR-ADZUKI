@@ -5,7 +5,7 @@
   This example code is in the public domain.
  */
  
-// Pin 23 has an green LED connected on most KURUMI boards.
+// ADZUKI boards.
 // give it a name:
 int led1 = 6;
 int led2 = 9;
